@@ -1,0 +1,44 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+.cache
+CMakeCache.txt
+CMakeFiles
+Makefile
+cmake-build
+cmake_install.cmake
+compile_commands.json
+CTestTestfile.cmake
+_deps/
+tests/CTestTestfile.cmake
+tests/adapter_tests[1]_include.cmake
